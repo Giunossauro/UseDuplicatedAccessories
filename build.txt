@@ -1,6 +1,6 @@
 displayName = Use Duplicated Accessories
 author = Giunossauro
-version = 1.1
+version = 1.0
 includeSource = true
 includePDB = false
 buildIgnore = .vs\*, Properties\*, *.csproj, *.user, obj\*, bin\*, *.config, .gitignore, .git\*
